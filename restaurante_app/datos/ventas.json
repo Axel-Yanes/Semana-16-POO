@@ -1,0 +1,122 @@
+[
+    {
+        "identificador": "V001",
+        "usuario_id": "001",
+        "producto_codigo": "p3",
+        "fecha": "2026-09-22"
+    },
+    {
+        "identificador": "V002",
+        "usuario_id": "002",
+        "producto_codigo": "p4",
+        "fecha": "2026-09-22"
+    },
+    {
+        "identificador": "V003",
+        "usuario_id": "002",
+        "producto_codigo": "p1",
+        "fecha": "2026-09-23"
+    },
+    {
+        "identificador": "V004",
+        "usuario_id": "003",
+        "producto_codigo": "p1",
+        "fecha": "2026-09-23"
+    },
+    {
+        "identificador": "V005",
+        "usuario_id": "003",
+        "producto_codigo": "p2",
+        "fecha": "2026-09-24"
+    },
+    {
+        "identificador": "V006",
+        "usuario_id": "005",
+        "producto_codigo": "p6",
+        "fecha": "2026-09-24"
+    },
+    {
+        "identificador": "V007",
+        "usuario_id": "004",
+        "producto_codigo": "p3",
+        "fecha": "2026-09-25"
+    },
+    {
+        "identificador": "V008",
+        "usuario_id": "006",
+        "producto_codigo": "p4",
+        "fecha": "2026-09-25"
+    },
+    {
+        "identificador": "V009",
+        "usuario_id": "007",
+        "producto_codigo": "p5",
+        "fecha": "2026-09-25"
+    },
+    {
+        "identificador": "V010",
+        "usuario_id": "002",
+        "producto_codigo": "p2",
+        "fecha": "2026-09-26"
+    },
+    {
+        "identificador": "V011",
+        "usuario_id": "008",
+        "producto_codigo": "p6",
+        "fecha": "2026-09-26"
+    },
+    {
+        "identificador": "V012",
+        "usuario_id": "001",
+        "producto_codigo": "p1",
+        "fecha": "2026-09-26"
+    },
+    {
+        "identificador": "V013",
+        "usuario_id": "005",
+        "producto_codigo": "p3",
+        "fecha": "2026-09-27"
+    },
+    {
+        "identificador": "V014",
+        "usuario_id": "003",
+        "producto_codigo": "p5",
+        "fecha": "2026-09-27"
+    },
+    {
+        "identificador": "V015",
+        "usuario_id": "004",
+        "producto_codigo": "p4",
+        "fecha": "2026-09-28"
+    },
+    {
+        "identificador": "V016",
+        "usuario_id": "007",
+        "producto_codigo": "p1",
+        "fecha": "2026-09-28"
+    },
+    {
+        "identificador": "V017",
+        "usuario_id": "006",
+        "producto_codigo": "p2",
+        "fecha": "2026-09-28"
+    },
+    {
+        "identificador": "V018",
+        "usuario_id": "002",
+        "producto_codigo": "p6",
+        "fecha": "2026-09-29"
+    },
+    {
+        "identificador": "V019",
+        "usuario_id": "008",
+        "producto_codigo": "p3",
+        "fecha": "2026-09-29"
+    },
+    {
+        "identificador": "V020",
+        "usuario_id": "004",
+        "producto_codigo": "p5",
+        "fecha": "2026-09-29"
+    }
+]

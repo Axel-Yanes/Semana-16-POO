@@ -1,0 +1,58 @@
+[
+    {
+        "identificacion": "001",
+        "nombre": "Administrador",
+        "usuario": "admin",
+        "contrasena": "1234",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "002",
+        "nombre": "Cajero",
+        "usuario": "cajero",
+        "contrasena": "abcd",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "003",
+        "nombre": "Ana Torres",
+        "usuario": "ana",
+        "contrasena": "cliente123",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "004",
+        "nombre": "Alejandro",
+        "usuario": "alejandro",
+        "contrasena": "ale2026",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "005",
+        "nombre": "Luis Mendoza",
+        "usuario": "luis",
+        "contrasena": "mesero01",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "006",
+        "nombre": "Maria Perez",
+        "usuario": "maria",
+        "contrasena": "cocina02",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "007",
+        "nombre": "Carlos Vega",
+        "usuario": "carlos",
+        "contrasena": "carlos77",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "008",
+        "nombre": "Sofia Castro",
+        "usuario": "sofia",
+        "contrasena": "sofi2026",
+        "rol": "Cliente"
+    }
+]
